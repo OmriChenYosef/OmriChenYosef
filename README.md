@@ -34,6 +34,16 @@ My current focus is on back-end development within the broader field of software
 
 <br/>  
 
+<br/>  
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/OmriChenYosef" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
+<a href="https://www.linkedin.com/in/omri-chen-yosef-9265961b7/" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
+<a href="https://www.facebook.com/omri.yosef.3" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook /></a>
+</div>
+<br/>  
+
 <!--
 **OmriChenYosef/OmriChenYosef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
