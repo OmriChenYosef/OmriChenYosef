@@ -19,7 +19,7 @@ B.Sc. Software Engineering 4th year student at Afeka Specializing in AI
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
-<a href="https://www.gnu.org/software/React/" target="_blank"><img style="margin: 10px" src="  https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>  
+<a href="https://www.gnu.org/software/React/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>  
 <a href="https://www.gnu.org/software/Unity/" target="_blank"><img style="margin: 10px" src="https://en.wikipedia.org/wiki/Unity_%28game_engine%29#/media/File:Unity_2021.svg" alt="Unity" height="50" /></a>  
 <a href="https://www.gnu.org/software/Node.js/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="Node.js" height="50" /></a> 
   
