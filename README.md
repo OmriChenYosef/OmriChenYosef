@@ -1,6 +1,6 @@
 ## Hi there 👋
-I’m Omri Chen Yosef,
-B.Sc. Software Engineering 4th year student at Afeka Specializing in AI
+I'm Omri Chen Yosef, a fourth-year software engineering student. I enjoy working on challenging problems and collaborating with others. Developing effectively for complex challenges is something I find particularly fulfilling.
+My current focus is on back-end development within the broader field of software engineering. I have a keen interest in designing and implementing, and reliable backend solutions. Recognized for my friendly nature and leadership skills, I'm motivated to contribute to solutions in the realm of software engineering and back-end technologies.
 <br/>  
 ## My Skill Set  
 
