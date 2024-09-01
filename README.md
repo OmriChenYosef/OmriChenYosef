@@ -2,9 +2,6 @@
 I’m Omri Chen Yosef,
 B.Sc. Software Engineering 4th year student at Afeka Specializing in AI
 
-## My Skill Set
-### Programming Languages and Frameworks:
-
 <br/>  
 
 ## My Skill Set  
